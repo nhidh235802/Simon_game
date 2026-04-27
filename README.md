@@ -1,2 +1,11 @@
-A Simon Game implementation written in RISC-V assembly, designed to run on [RARS / Venus simulator].
-The project explores low-level control flow, I/O handling, and timing logic in assembly language.
+## Computer Architecture Assignments (RISC-V)
+
+Two small projects written in RISC-V assembly:
+- Simon Game  
+- RAID 5 Simulation  
+
+Environment:
+- RISC-V Assembly  
+- (RARS / Venus simulator)
+
+For educational purposes.
